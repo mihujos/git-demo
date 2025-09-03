@@ -1,2 +1,4 @@
 gyn c
 wstęp
+
+do progu
