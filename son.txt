@@ -7,9 +7,14 @@ ciekawe rzeczy
 
 
 albo i nie
-<<<<<<< HEAD
 
 tak tak
-=======
+
 wersja do feature
->>>>>>> feature
+
+
+wersja do feature
+
+
+i kolejna zmiana
+
