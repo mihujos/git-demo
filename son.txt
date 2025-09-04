@@ -4,3 +4,4 @@ wstęp
 do progu
 
 albo i nie
+wersja do feature
