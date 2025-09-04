@@ -4,5 +4,9 @@ wstęp
 do progu
 
 albo i nie
+<<<<<<< HEAD
 
 tak tak
+=======
+wersja do feature
+>>>>>>> feature
