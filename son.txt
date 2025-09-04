@@ -3,6 +3,9 @@ wstęp
 
 do progu
 
+ciekawe rzeczy
+
+
 albo i nie
 <<<<<<< HEAD
 
